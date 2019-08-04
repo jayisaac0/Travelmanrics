@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411273520585",
+    "firebase_url": "https://alcapp-d4739.firebaseio.com",
+    "project_id": "alcapp-d4739",
+    "storage_bucket": "alcapp-d4739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411273520585:android:3e4e8107a4050b1b",
+        "android_client_info": {
+          "package_name": "com.example.alcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411273520585-1hogkblt33akmsjgsmoi4pvg4bo6l27i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alcapp",
+            "certificate_hash": "34370f56d0e70b5b90263630ebbb4454eb21bdb6"
+          }
+        },
+        {
+          "client_id": "411273520585-5e6utveg8uhrca6b6cmake1glsktn0di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruDYVowPcFxRWUQiAoVbo-J7gYRygD3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411273520585-5e6utveg8uhrca6b6cmake1glsktn0di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
